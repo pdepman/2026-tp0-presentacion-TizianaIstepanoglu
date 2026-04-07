@@ -8,3 +8,7 @@ Mi legajo es: 222.415-0
 ## Algunas cosas sobre mi
 Disfruto mucho estar al sol, tomar mates (amargos siempre), jugar con mi perrito Ares y aprender cosas nuevas.
 
+<div style="display:flex; justify-content:center; gap:15px;">
+ <img src="./mate.png" alt="Foto de mate" width="200"/>
+ <img src="./ares.png" alt="Foto de ares" width="200"/>
+</div>
